@@ -9,8 +9,7 @@ hero_height: is-small
 hero_darken: true
 tags: project
 series: amp_lab_project
-author: Jeremy Shaver
-Rich Dumene
+author: Jeremy Shaver, Rich Dumene
 show_sidebar: false
 ---
 
