@@ -4,7 +4,7 @@ title: Boombox Speaker System
 description: This project will focus on the design and construction of a modern style boombox with a low range woofer to add more bounce and low end volume to the sound. It will incorporate battery power that is easily rechargeable, making it very portable. As an added feature, it will have LED lights built into it to add visual effect to the music.
 date: 2000-02-07 09:00:00
 hero_image: /web/img/Boombox-Speaker-System/Hero.png
-image: /web/img/Boombox-Speaker-System/Hero.png
+# image /web/img/Boombox-Speaker-System/Hero.png
 hero_height: is-small
 hero_darken: true
 tags: project
