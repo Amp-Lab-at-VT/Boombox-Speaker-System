@@ -21,7 +21,7 @@ Jeremy Shaver
 Rich Dumene
 
 ## Repo Link
-<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Boombox-Speaker-System"" >Boombox-Speaker-System</a>
+<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Boombox-Speaker-System" >Boombox-Speaker-System</a>
 
 ## Photo
 
